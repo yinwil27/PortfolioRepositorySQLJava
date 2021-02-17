@@ -1,0 +1,40 @@
+type report (table and combo box)
+3rd report 
+
+
+x9 7 23 8
+//popup in update and add appointment "OVerlap Error"
+15 minutes before appointment (lambda)
+Overlap for create and update
+readme.txt// create a notepad file. 
+relations between countries and combo
+check username and password with the database
+login log  (learn printwriter)// possibly done, needs editing
+invalid login popup in both languages
+Fix Customer ID on Appointment
+two spoken languages in login French/Eng(Resource Bundle Localization pt1 and 2 . Do NOT INSTALL language pack. Look at Unboxing Webinar for the test line Webinar)
+list location in login(get country from locale)
+By week (lambda)
+by month  (lambda)// still
+Still need to comment for lambda (month)
+Possibly done
+Delete appointments with customers 
+Timezone 1
+Timezone for business hours
+3rd report ( tenatively done replace with a Label)
+When deleting an appointment you must display the type and appointment id after deletion (Possibly done)
+Warn when deleting a customer
+javadocs
+timezones for all appointment times
+contact schedule (lambda)
+two lambdas
+check table for all appointment values  Appointment_ID
+        •  Title
+        •  Description
+        •  Location
+        •  Contact
+        •  Type
+        •  Start Date and Time
+        •  End Date and Time
+        •  Customer_ID
+update customers show customer id
